@@ -21,7 +21,7 @@ public class ejercicio1 {
 
         //This makes the text come out in terminal to ask for a input
         // System.out.println is used to print something
-        //The difference between prinln and print is that, println lets the input be in the next line
+        //The difference between println and print is that, println lets the input be in the next line
         // System.out.print("Ingrese un número");
 
     }
