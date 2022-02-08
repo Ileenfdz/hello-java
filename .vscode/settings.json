@@ -5,8 +5,10 @@
         "lib/**/*.jar"
     ],
     "cSpell.words": [
+        "codewars",
         "entrada",
         "Ingrese",
+        "multiplicar",
         "número",
         "otro",
         "suma"
